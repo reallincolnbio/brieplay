@@ -57,7 +57,7 @@ margin-bottom: 20px;
   flex-direction: column;
   align-items: center;
   padding: 20px 10px; /* Increased padding for taller boxes */
-  background-color: #d5e3e4;
+  background-color: #9dabd1;
   text-decoration: none;
   color: #f0bacf;
   line-height: 1.25; /* Adjusted line height for taller boxes */
@@ -68,5 +68,6 @@ margin-bottom: 20px;
 }
 
 .links-list li a:hover {
-  background-color: #9dabd1;
+  background-color: #d5e3e4;
+  color: #f1bfd1;
 }
