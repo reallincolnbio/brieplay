@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to bottom, #800080, #4B0082);
+  background: linear-gradient(to bottom, #9dabd1, #rgb(241,191,209));
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -68,5 +68,5 @@ margin-bottom: 20px;
 }
 
 .links-list li a:hover {
-  background-color: #6f42c1;
+  background-color: #d5e3e4;
 }
